@@ -1,7 +1,7 @@
 ### Hi im Sergio Garcia Gil 👋
 Mi mundo es la tecnología y siempre tuve curiosidad por aprender. Gracias a Yo Soy Henry ahora soy un desarrollador FullStack , y eso me abrió las puertas al conocimiento ,de cosas que jamas pense.  Ahora se me facilita aprender cualquier lenguaje de programación
 
-Tecnologias que manejo : Javascript -Typescript - React - Redux - Node.js - Mongodb - Sequelize - Express - Html- Css - Postgress - VisualStudio - Tailwind 
+Tecnologias que manejo : Javascript -Typescript - React - Redux - Node.js - Mongodb - Sequelize - Express - Html- Css - Postgress - VisualStudio - Tailwind - wordpress 
                          
 
 <!--
