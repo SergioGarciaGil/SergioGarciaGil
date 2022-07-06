@@ -1,4 +1,5 @@
 ### Hi im Sergio Garcia Gil 👋
+Soy un apasioando de la tecnologia , aprendi en Henry ,lo que es un programador full stack , y eso me abrio las puertas al conocimiento ,de cosas que jamas pens
 
 <!--
 **SergioGarciaGil/SergioGarciaGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
