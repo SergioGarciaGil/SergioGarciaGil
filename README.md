@@ -1,4 +1,4 @@
-### Hi im Sergio Garcia Gil 👋
+### Hola soy Sergio Garcia Gil 👋
 <img src="https://blog.openclassrooms.com/es/wp-content/uploads/sites/5/2017/09/AdobeStock_126016889apaisado.jpg">
 
 Mi mundo es la tecnología y siempre tuve curiosidad por aprender. Gracias a: Yo Soy Henry ahora soy un desarrollador FullStack , y eso me abrió las puertas al conocimiento.  Ahora se me facilita aprender cualquier lenguaje de programación
