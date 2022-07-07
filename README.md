@@ -1,7 +1,7 @@
 ### Hola soy Sergio Garcia Gil 👋
 <img src="https://blog.openclassrooms.com/es/wp-content/uploads/sites/5/2017/09/AdobeStock_126016889apaisado.jpg">
 
-¡Hola todos! Mi nombre es Sergio Garcia y soy un desarrollador Full Stack Radicado en Colombia. Disfruto mucho resolviendo problemas, construyendo cosas y aprendiendo. Para mí, la codificación comenzó con Wordpress durante la cuarentena y luego ingresé a Henry para convertirme en un desarrollador web de pila completa. Me gradué del bootcamp de Henry en julio2022. Ahora he trabajado en algunos proyectos que compartiré con ustedes aquí, en mi perfil. Mi pila actual es: PostgreSQL, Sequelize, Node.js, Express.js, tailwind, React.js, Redux y Git
+¡Hola todos! Mi nombre es Sergio Garcia y soy un desarrollador Full Stack Radicado en Colombia. Disfruto mucho resolviendo problemas, construyendo cosas y aprendiendo. Para mí, la codificación comenzó con Wordpress durante la cuarentena y luego ingresé a Henry para convertirme en un desarrollador web de pila completa. Me gradué del bootcamp de Henry en julio2022. Ahora he trabajado en algunos proyectos que compartiré con ustedes aquí, en mi perfil. Mi pila actual es: PostgreSQL, MongoDB Sequelize, Node.js, Express.js, Tailwind, React.js, Redux y Git
                          
 
 <!--
