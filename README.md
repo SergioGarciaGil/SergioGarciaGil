@@ -4,12 +4,6 @@
 
 My specialty is Backend development 🚀
 I always seek to implement the best solutions when facing a new project 
-On a daily basis I have uses: PostgreSQL, MongoDB Sequelize, Node.js, Express.js, Tailwind, React.js, Redux y Git, Just to name the most important.
-
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://# Hi there 👋 I'm Esneyder Alvarez
-
-My specialty is Backend development 🚀
-I always seek to implement the best solutions when facing a new project 
 On a daily basis I have uses: GO, Net Core, Python,Flutter, JavaScript (ES6),
 React, GraphQL, Just to name the most important.
 
