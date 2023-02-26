@@ -4,8 +4,8 @@
 
 My specialty is Backend development 🚀
 I always seek to implement the best solutions when facing a new project 
-On a daily basis I have uses: GO, Net Core, Python,Flutter, JavaScript (ES6),
-React, GraphQL, Just to name the most important.
+On a daily basis I have uses: Postgres. Mongo,  JavaScript (ES6),
+React, Express,  Nodejs, Nestjs Just to name the most important.
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-garcia-72561889/)](https://www.linkedin.com/in/sergio-garcia-72561889/)
  [![Twitter Badge](https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/IngRengifo)](https://twitter.com/SergioG75248816)
